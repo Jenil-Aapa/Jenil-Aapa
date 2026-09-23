@@ -207,7 +207,7 @@ My goal is to become a strong **Data Analyst** who can go beyond creating report
 ## 🌐 Connect With Me
 
  **Portfolio:**
-[View my Portfolio](https://jenil-aapa.github.io/portfolio/)
+[View my Portfolio](https://jenil-aapa.lovable.app/)
 
  **GitHub:**
 [View my GitHub Profile](https://github.com/Jenil-Aapa)
